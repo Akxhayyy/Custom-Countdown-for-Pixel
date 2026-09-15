@@ -53,7 +53,7 @@ digits and a colon never uses.
 ## Known limitation: no real lock-screen widget
 
 The original goal was a widget visible on the lock screen too. On this
-Pixel 7a (Android 16), the lock screen's swipe-left panel is a fixed,
+Pixel 7a (Android 17), the lock screen's swipe-left panel is a fixed,
 Google-curated surface (weather / Gemini / stocks widgets only) that is
 still in beta and has no slot for third-party widgets. That's a platform
 limitation, not something an app can opt into.
