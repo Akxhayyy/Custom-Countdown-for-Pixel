@@ -1,0 +1,17 @@
+# Build outputs
+*/build/
+build/
+.gradle/
+.kotlin/
+
+# Local machine config — SDK path, never portable across machines
+local.properties
+
+# Android Studio / IDE
+.idea/
+*.iml
+.DS_Store
+
+# Signing / keystores (none checked in on principle, even debug ones)
+*.jks
+*.keystore
